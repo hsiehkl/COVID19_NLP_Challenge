@@ -27,7 +27,7 @@ Done with a self-defined function, also based on regular expressions, that would
 The filtering method described in the previous section selected papers that mentioned both quarantine or social distancing and the COVID-19. However, this did ensure that these papers evaluated the *effectiveness* of these measures in the spread of the pandemics. Thus, a more sophisticated model was needed as an additional step to single out only the papers relevant to the task (i.e. those addressing the effects of social distancing and quarantine on the COVID-19 spread). LDA Topic Modelling was chosen to fulfill this purpose. The team ran the model with 9 topics and chose those which had an interesting composition(e.g. 0.045*"model" + 0.033*"policy" + 0.019*"effect" + 0.019*"strategy" + 0.016*"social" + 0.014*"measure" + 0.014*"lockdown" + 0.013*"risk" + 0.013*"result" + 0.013*"differ").
 
 ### Summarization with BertSumExt
-For deriving the excerpt column, the team chose to apply a text summarization technique. We used the BertSumExt model, available in this repo:https://github.com/nlpyang/PreSumm
+For deriving the excerpt column, the team chose to apply a text summarization technique. We used the BertSumExt model, available in this repo:https://github.com/hsiehkl/PreSumm
 
 
 ## Named Entity Recognition with spaCy
