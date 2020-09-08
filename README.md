@@ -1,5 +1,4 @@
 # CORD-19_challenge
-TWS group project: Text Mining and Summarization on COVID-19 academic articles
 
 ## About the Project
 ### Origin
@@ -38,7 +37,3 @@ Two Summary tables: one containing 477 entried for Effectiveness of Quarantine c
 
 ## Conclusion
 The team effectively filtered for relevant scientific articles and used a unique methodology for extracting the columns for summary tables. The methodology that we used yielded the desired results, although there is still much room for improvement.
-
-## Repository Resources
-* Folder containing the forked PreSumm repo and the summarization implementation steps and results
-* Jupyter notebook displaying the code and results for all other steps of the approach
