@@ -1,4 +1,4 @@
-# CORD-19_challenge
+# COVID-19_challenge
 
 ## About the Project
 ### Origin
